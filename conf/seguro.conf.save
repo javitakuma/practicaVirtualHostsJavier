@@ -1,0 +1,12 @@
+Listen 80
+Liste 443
+<VirtualHost *:80>
+	ServerName www.seguro.com
+	DocumentRoot /var/www/missitios/seguroListen 80
+Liste 443
+<VirtualHost *:80>
+        ServerName www.seguro.com
+        DocumentRoot /var/www/missitios/seguro
+</VirtualHost>
+
+</VirtualHost> 
